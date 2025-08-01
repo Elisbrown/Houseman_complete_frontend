@@ -1,0 +1,19 @@
+{
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/analytics/route": "/api/analytics",
+  "/api/auth/login/route": "/api/auth/login",
+  "/_not-found/page": "/_not-found",
+  "/api/bookings/route": "/api/bookings",
+  "/api/messages/route": "/api/messages",
+  "/api/categories/route": "/api/categories",
+  "/api/bookings/[id]/route": "/api/bookings/[id]",
+  "/api/notifications/route": "/api/notifications",
+  "/api/reviews/route": "/api/reviews",
+  "/api/conversations/route": "/api/conversations",
+  "/api/services/[id]/route": "/api/services/[id]",
+  "/api/services/route": "/api/services",
+  "/api/upload/route": "/api/upload",
+  "/api/users/route": "/api/users",
+  "/api/users/[id]/route": "/api/users/[id]",
+  "/page": "/"
+}
