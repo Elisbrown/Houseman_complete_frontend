@@ -137,7 +137,7 @@ export function AuthScreen() {
             />
           </div>
           <h1 className="text-2xl font-bold text-foreground">Houseman</h1>
-          <p className="text-muted-foreground">Connect with trusted service providers</p>
+          <p className="text-muted-foreground">Connecting you to the best local services</p>
         </div>
 
         <Card>

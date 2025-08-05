@@ -1,7 +1,7 @@
 {
   "name": "Houseman - Service Provider Platform",
   "short_name": "Houseman",
-  "description": "Connect with trusted service providers in Central Africa",
+  "description": "Connecting you to the best local services in Central Africa",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
