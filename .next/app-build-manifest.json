@@ -14,13 +14,6 @@
       "static/chunks/main-app-a7dbf053099cf378.js",
       "static/chunks/app/api/auth/register/route-697f03e98fbb3a49.js"
     ],
-    "/api/analytics/route": [
-      "static/chunks/webpack-5417328a50983c10.js",
-      "static/chunks/4bd1b696-4b0f7518a463c96c.js",
-      "static/chunks/684-d3dd91eb934e38c1.js",
-      "static/chunks/main-app-a7dbf053099cf378.js",
-      "static/chunks/app/api/analytics/route-8b4ad06589fb8def.js"
-    ],
     "/api/auth/login/route": [
       "static/chunks/webpack-5417328a50983c10.js",
       "static/chunks/4bd1b696-4b0f7518a463c96c.js",
@@ -46,19 +39,19 @@
       "static/chunks/main-app-a7dbf053099cf378.js",
       "static/chunks/app/loading-33347f99034ccb93.js"
     ],
-    "/api/bookings/route": [
+    "/api/analytics/route": [
       "static/chunks/webpack-5417328a50983c10.js",
       "static/chunks/4bd1b696-4b0f7518a463c96c.js",
       "static/chunks/684-d3dd91eb934e38c1.js",
       "static/chunks/main-app-a7dbf053099cf378.js",
-      "static/chunks/app/api/bookings/route-0f92aada7922bc7f.js"
+      "static/chunks/app/api/analytics/route-8b4ad06589fb8def.js"
     ],
-    "/api/messages/route": [
+    "/api/conversations/route": [
       "static/chunks/webpack-5417328a50983c10.js",
       "static/chunks/4bd1b696-4b0f7518a463c96c.js",
       "static/chunks/684-d3dd91eb934e38c1.js",
       "static/chunks/main-app-a7dbf053099cf378.js",
-      "static/chunks/app/api/messages/route-abf0c6b08420f439.js"
+      "static/chunks/app/api/conversations/route-5364482af1d7636b.js"
     ],
     "/api/categories/route": [
       "static/chunks/webpack-5417328a50983c10.js",
@@ -74,13 +67,6 @@
       "static/chunks/main-app-a7dbf053099cf378.js",
       "static/chunks/app/api/bookings/[id]/route-e4882f92bd0540df.js"
     ],
-    "/api/notifications/route": [
-      "static/chunks/webpack-5417328a50983c10.js",
-      "static/chunks/4bd1b696-4b0f7518a463c96c.js",
-      "static/chunks/684-d3dd91eb934e38c1.js",
-      "static/chunks/main-app-a7dbf053099cf378.js",
-      "static/chunks/app/api/notifications/route-7a6d1054d0184980.js"
-    ],
     "/api/reviews/route": [
       "static/chunks/webpack-5417328a50983c10.js",
       "static/chunks/4bd1b696-4b0f7518a463c96c.js",
@@ -88,12 +74,26 @@
       "static/chunks/main-app-a7dbf053099cf378.js",
       "static/chunks/app/api/reviews/route-336e154ecee9cb0d.js"
     ],
-    "/api/conversations/route": [
+    "/api/bookings/route": [
       "static/chunks/webpack-5417328a50983c10.js",
       "static/chunks/4bd1b696-4b0f7518a463c96c.js",
       "static/chunks/684-d3dd91eb934e38c1.js",
       "static/chunks/main-app-a7dbf053099cf378.js",
-      "static/chunks/app/api/conversations/route-5364482af1d7636b.js"
+      "static/chunks/app/api/bookings/route-0f92aada7922bc7f.js"
+    ],
+    "/api/messages/route": [
+      "static/chunks/webpack-5417328a50983c10.js",
+      "static/chunks/4bd1b696-4b0f7518a463c96c.js",
+      "static/chunks/684-d3dd91eb934e38c1.js",
+      "static/chunks/main-app-a7dbf053099cf378.js",
+      "static/chunks/app/api/messages/route-abf0c6b08420f439.js"
+    ],
+    "/api/notifications/route": [
+      "static/chunks/webpack-5417328a50983c10.js",
+      "static/chunks/4bd1b696-4b0f7518a463c96c.js",
+      "static/chunks/684-d3dd91eb934e38c1.js",
+      "static/chunks/main-app-a7dbf053099cf378.js",
+      "static/chunks/app/api/notifications/route-7a6d1054d0184980.js"
     ],
     "/api/services/[id]/route": [
       "static/chunks/webpack-5417328a50983c10.js",
