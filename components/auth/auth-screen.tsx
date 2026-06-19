@@ -143,7 +143,7 @@ export function AuthScreen() {
         <Card>
           <CardHeader>
             <CardTitle>{t("common.welcome")}</CardTitle>
-            <CardDescription>Sign in to your account or create a new one</CardDescription>
+            <CardDescription>Log in to your account or create a new one</CardDescription>
           </CardHeader>
           <CardContent>
             <Tabs defaultValue="login" className="w-full">
