@@ -20,7 +20,7 @@ const demoCredentials: CredentialSet[] = [
     role: "admin",
     email: "admin@houseman.cm",
     password: "HousemanAdmin2024!",
-    name: "Sarah Mbeki",
+    name: "Sarah Mbeki Abena",
     description: "Platform Administrator",
     features: [
       "User Management Dashboard",
